@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26320'
     url: http://www.gutenberg.org/2009/agents/26320
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24219#The-Royal-Guide-to-Wax-Flower-Modelling
 gutenberg_bookshelf:
 - Technology
 - Crafts
